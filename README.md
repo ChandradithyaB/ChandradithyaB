@@ -1,4 +1,4 @@
-# 🧠 Hi, I'm [Your Name] 👋
+# 🧠 Hi, I'm Chandradithya 👋
 
 I am a **Rising Sophomore and Aspiring Software & Hardware Engineer** focused on the intersection of **Artificial Intelligence, Embedded Systems, and Human Learning Optimization**. Having successfully completed Harvard University's **CS50P** course, I am actively building physical-digital environments that track, analyze, and accelerate how the human mind masters complex spatial and tactical tasks.
 
